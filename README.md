@@ -6,8 +6,7 @@
 
 A modern, real-time platform for community issue tracking and resolution. Built to empower citizens to report, track, and resolve neighborhood issues transparently.
 
-![Screenshot of Resolve App](https://via.placeholder.com/800x450.png?text=Replace+with+Your+App+Screenshot)
-*<p align="center">Replace the placeholder image above with a screenshot of your application later!</p>*
+
 
 ---
 
